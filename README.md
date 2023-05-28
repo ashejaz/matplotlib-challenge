@@ -1,7 +1,7 @@
 # overview
 For this project, Pandas, Matplotlib-PyPlot, SciPy and NumPy were utilised in Jupyter notebook to manipulate and visualise data from a pharmaceutical study.
 
-Two .csv files were loaded, joined and the results analysed to produce a series of graphs and charts. Statistical analysis and linear regression was performed to measure correlation between factors.
+Two .csv files were loaded, joined and the results analysed to produce a series of graphs and charts. Statistical analysis and linear regression were performed to measure correlation between factors.
 
 # files
 All relevant files are contained with the 'Pymaceuticals' folder.
